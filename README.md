@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kizzyhub
 - 🌱 I’m a FRONT END DEVELOPER
-- 📫 How to reach me ...
+- 📫 How to reach me ( bellokazeem908@gmail.com )
 - ⚡ Fun fact: ... I Love spagetti and Man u 
 
 <!---

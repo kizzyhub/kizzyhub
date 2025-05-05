@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Kizzy Hub
+# Hello! 👋 I'm Kizzy 
 🌟 A passionate **Front-End Developer** dedicated to crafting visually appealing and user-friendly web interfaces.
 🌱 **Front-End Developer**  
 I specialize in creating user-friendly and responsive web applications using modern technologies like HTML, CSS, JavaScript, and React.
@@ -15,7 +15,7 @@ I specialize in creating user-friendly and responsive web applications using mod
 I love spaghetti, Manchester United, and exploring new React libraries.
 
 ## Projects
-- **[https://kizzyhub.github.io/Simple-Landing-Page/#]**: A responsive website showcasing my skills and projects.
+- **[https://kizzyhub.github.io/Simple-Landing-Page/#]**: A responsive website showcasing my skills 
 
 
 ## 🤝 Let's Connect!

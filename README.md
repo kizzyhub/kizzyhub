@@ -2,7 +2,7 @@
 🌟 A passionate **Front-End Developer** dedicated to crafting visually appealing and user-friendly web interfaces.
 🌱 **Front-End Developer**  
 I specialize in creating user-friendly and responsive web applications using modern technologies like HTML, CSS, JavaScript, and React.
-
+![Snake animation](https://github.com/kizzyhub/snk/blob/output/github-contribution-grid-snake.svg)
 ## 🛠️ Skills
 ![HTML](https://img.shields.io/badge/Code-HTML-orange)
 ![CSS](https://img.shields.io/badge/Code-CSS-blue)

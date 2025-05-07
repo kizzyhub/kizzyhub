@@ -3,6 +3,8 @@
 🌱 **Front-End Developer**  
 I specialize in creating user-friendly and responsive web applications using modern technologies like HTML, CSS, JavaScript, and React.
 
+![Image Description](img)
+
 ## 🛠️ Skills
 ![HTML](https://img.shields.io/badge/Code-HTML-orange)
 ![CSS](https://img.shields.io/badge/Code-CSS-blue)

@@ -34,3 +34,7 @@ I love spaghetti, Manchester United, and exploring new JAVASCRIPTS libraries.
 I'm always open to collaborating on interesting projects. Feel free to reach out!
 
 🌟 _Feel free to explore my repositories or connect with me!_
+
+
+  ![snake gif](https://github.com/kizzyhub/kizzyhub/blob/output/github-snake.svg)
+

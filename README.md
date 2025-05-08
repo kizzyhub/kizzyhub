@@ -20,6 +20,9 @@ I specialize in creating user-friendly and responsive web applications using mod
 ⚡ **Fun fact:**  
 I love spaghetti, Manchester United, and exploring new JAVASCRIPTS libraries.
 
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kizzyhub&theme=onedark)
+
 ## 🚀 Projects
 - **[Simple Landing Page](https://github.com/kizzyhub/Simple-Landing-Page)**: A simple landing page built with ReactJS.  
   [Live Demo](https://kizzyhub.github.io/Simple-Landing-Page/)

@@ -6,12 +6,14 @@ I specialize in creating user-friendly and responsive web applications using mod
 ![Image Description](img)
 
 ## 🛠️ Skills
-![HTML](https://img.shields.io/badge/Code-HTML-orange)
-![CSS](https://img.shields.io/badge/Code-CSS-blue)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![React](https://img.shields.io/badge/Code-React-61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Code-Tailwind%20CSS-38B2AC)
-![Vite](https://img.shields.io/badge/Tool-Vite-646CFF)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 📫 **Reach me at:**  
 - Email: [bellokazeem908@gmail.com](mailto:bellokazeem908@gmail.com)  
@@ -23,14 +25,6 @@ I love spaghetti, Manchester United, and exploring new JAVASCRIPTS libraries.
 ![Kizzyhub's GitHub stats](https://github-readme-stats.vercel.app/api?username=kizzyhub&show_icons=true&theme=radical)
 
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kizzyhub&theme=onedark)

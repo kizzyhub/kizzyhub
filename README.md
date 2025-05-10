@@ -8,7 +8,13 @@ I specialize in creating user-friendly and responsive web applications using mod
 - **Languages**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 - **Frameworks**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 - **Tools**: ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-  
+
+  ## 🏆 GitHub Contributions and Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kizzyhub&theme=radical)
+
+![Total Contributions](https://komarev.com/ghpvc/?username=kizzyhub&style=flat-square&color=blue&label=Total+Contributions)
+
 📫 **Reach me at:**  
 - Email: [bellokazeem908@gmail.com](mailto:bellokazeem908@gmail.com)  
 - LinkedIn: [KizzyHub](https://www.linkedin.com/in/kazeem-bello-8243b5355/)

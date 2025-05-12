@@ -15,6 +15,9 @@ I specialize in creating user-friendly and responsive web applications using mod
 
 ![Total Contributions](https://komarev.com/ghpvc/?username=kizzyhub&style=flat-square&color=blue&label=Total+Contributions)
 
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+
 📫 **Reach me at:**  
 - Email: [bellokazeem908@gmail.com](mailto:bellokazeem908@gmail.com)  
 - LinkedIn: [KizzyHub](https://www.linkedin.com/in/kazeem-bello-8243b5355/)

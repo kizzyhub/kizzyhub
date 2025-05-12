@@ -15,7 +15,6 @@ I specialize in creating user-friendly and responsive web applications using mod
 
 ![Total Contributions](https://komarev.com/ghpvc/?username=kizzyhub&style=flat-square&color=blue&label=Total+Contributions)
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 
 📫 **Reach me at:**  
@@ -27,10 +26,15 @@ I love spaghetti, Manchester United, and exploring new JAVASCRIPTS libraries.
 
 ![Kizzyhub's GitHub stats](https://github-readme-stats.vercel.app/api?username=kizzyhub&show_icons=true&theme=radical)
 
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+
 
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kizzyhub&theme=onedark)
+
+
 
 ## 🚀 Projects
 - **[Simple Landing Page](https://github.com/kizzyhub/Simple-Landing-Page)**: A simple landing page built with ReactJS.  

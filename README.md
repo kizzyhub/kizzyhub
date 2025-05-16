@@ -27,11 +27,8 @@ I love spaghetti, Manchester United, and exploring new JAVASCRIPTS libraries.
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 
-
-
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kizzyhub&theme=onedark)
-
 
 
 ## 🚀 Projects

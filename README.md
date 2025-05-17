@@ -19,9 +19,6 @@ I specialize in creating user-friendly and responsive web applications using mod
 - Email: [bellokazeem908@gmail.com](mailto:bellokazeem908@gmail.com)  
 - LinkedIn: [KizzyHub](https://www.linkedin.com/in/kazeem-bello-8243b5355/)
 
-⚡ **Fun fact:**  
-I love spaghetti, Manchester United, and exploring new JAVASCRIPTS libraries.
-
 ![Kizzyhub's GitHub stats](https://github-readme-stats.vercel.app/api?username=kizzyhub&show_icons=true&theme=radical)
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
